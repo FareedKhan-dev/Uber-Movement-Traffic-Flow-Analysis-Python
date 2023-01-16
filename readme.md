@@ -1,8 +1,10 @@
-﻿Traffic Flow Analysis Using Uber Movement Data 
+### Code is provided in the repository
+_________
 
-*Syed Najeeb Iqbal   Syed Asad Rizvi*  *Fareed Hassan Khan* 
+Traffic Flow Analysis Using Uber Movement Data 
 
-*MS – Data Science*  *MS – Data Science*   *MS – Data Science*              *Institute of Business Administration  Institute of Business Administration  Institute of Business Administration* Karachi, Pakistan  Karachi, Pakistan  Karachi, Pakistan               [s.najeeb.21205@khi.iba.edu.pk ](mailto:s.najeeb.21205@khi.iba.edu.pk)                  [s.rizvi.25365@khi.iba.edu.pk ](mailto:s.rizvi.25365@khi.iba.edu.pk)                    [f.khan.25367@khi.iba.edu.pk ](mailto:f.khan.25367@khi.iba.edu.pk)
+Members: *Syed Najeeb Iqbal, Syed Asad Rizvi, Fareed Hassan Khan* 
+                         
 
 ***Abstract*— Different techniques to analyze traffic flow of different cities is proposed in this paper, with the motivation to  solve  traffic  issues  particularly  traffic  congestion  and bottlenecks by identifying peak rush hours and other mobility patterns. The analysis uses Uber Movement data consisting of Uber  trips  held  in  various  cities  and  is  based  on  the comparisons of spatial and temporal graphs. These graphs visualize geographical structure of the city incorporated with various traffic movement patterns based on mean travel times between  the  trips.  Centrality  measures  such  as  Degree, Closeness, Betweenness and PageRank were used to identify peak rush hours and the effect of bottlenecks, while Greedy Modularity  algorithm  was  used  as  a  community  detection technique to observe how communities change throughout the day with respect to traffic flow. This approach is selected because it gives us a clear view of analyzing the impact of traffic  flow  at  various  locations.  This  analysis  would  help transportation sectors especially cargo and courier companies to  deliver  goods  smoothly  without  any  issues,  while government departments can also use this analysis to plan solutions for the improvement of roads and infrastructure in different localities. For future, this analysis could lead to more impactful outcomes when new data is added, so that more solutions can be proposed for traffic related problems.** 
 
